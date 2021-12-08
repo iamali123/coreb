@@ -1,0 +1,8 @@
+.headerStyle {
+  display: flex;
+  flex-direction: row;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 700;
+  justify-content: center;
+}
